@@ -2,7 +2,7 @@ Hey! 👋 I’m **Sami**, a Computer Science student and aspiring developer. �
 I love building things, solving problems, and learning new technologies. 🚀
 Currently exploring the world of **software development and AI**. 🤖
 # 💫 About Me:
-# ✨ About Me<br><br>## 👋 Hey! I'm Sami<br><br>A Computer Science student & passionate developer. 💻<br><br>## 🚀 What I Do<br><br>I love building projects, solving problems, and turning ideas into reality.<br><br>## 🧠 My Mindset<br><br>**Learn → Build → Break → Fix → Grow** 🚀<br><br>## 🎯 My Goal<br><br>Keep learning, keep building, and become better every day.<br><br>> ⚡ **Curiosity drives me. Code defines me.**
+👋 Hey! I'm Sami<br><br>💻 Computer Science student & passionate developer.<br><br>🚀 I love building projects, solving problems, and turning ideas into reality.<br><br>🧠 Learn → Build → Break → Fix → Grow<br><br>🎯 Always learning. Always building.
 
 
 ## 🌐 Socials:
